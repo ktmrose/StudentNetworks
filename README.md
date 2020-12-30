@@ -19,4 +19,4 @@ Collecting data consisted of sending a survey to my classmates with only three q
 
 It was assumed that by this point, our classmates were well acquainted with each other to get a sense of what partners were most compatible with each other. The survey was open for five days. Approximately half the class responded.
 
-![alt text](https://github.com/ktmrose/StudentNetworks/edit/master/ClassMBPersonalities.png?raw=true)
+![Personality Histogram](https://github.com/ktmrose/StudentNetworks/edit/master/ClassMBPersonalities.png?raw=true)
