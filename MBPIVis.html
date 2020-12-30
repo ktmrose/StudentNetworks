@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Myers-Brigg Personality Indicator Links</title>
+
+    <style>
+      #main
+      {
+	  width: 100%;
+	  height: 100%;
+	  overflow: auto;
+      background-color: #f7f8f3;
+      font-family: 'Arial', Helvetica, sans-serif
+      color: 2mm ridge #002c3e
+      }
+      #peopleDivOuter
+      {
+	  width: 30%;
+	  overflow: hidden;
+	  display: inline-block;
+      border: 3px solid #002c3e;
+      border-radius: 20px;
+      padding: 5px 5px 5px 5px;
+      margin-left: auto;
+      margin-right: auto;
+      }
+      #peopleDiv
+      {
+          overflow: scroll;
+          height: 750px;
+          direction: ltr;
+          border: 0px;
+      }
+      /* div
+      {
+	  border: 3px solid #002c3e;
+      }*/
+
+      .selected
+      {
+	  background: #f7444e;
+      }
+
+      svg
+      {
+	  border: 3px ridge #002c3e;
+	  display: block;
+	  width: 100%
+      }
+
+      #visHolder
+      {
+	  width: 65%;
+	  height: 750px;
+      text-align: center;
+	  display: inline-block;
+      }
+
+      #canvas
+      {
+	  height: 550px;
+      /* color: #78bcc4; */
+      border: 3px solid #002c3e;
+      border-radius: 20px;
+      padding: 5px 5px 5px 5px;
+      margin-left: auto;
+      margin-right: auto;
+      }
+
+      #teams
+      {
+	  height: 200px;
+      width: 100%;
+      overflow-y: scroll;
+      text-align: center;
+	  display: inline-block;
+	  direction: ltr;
+      }
+
+      </style>
+
+  </head>
+
+  <body>
+    <script type="text/javascript" src="https://d3js.org/d3.v5.js"></script>
+    <script type="text/javascript" src="MBPIDriver.js"></script>
+
+    <div id="main">
+      <div id="peopleDivOuter">
+          <div id="peopleDiv">
+          </div>
+      </div>
+      <div id="visHolder">
+      <svg id="canvas">
+      </svg>
+      <div id="teams">
+      </div>
+      </div>
+    </div>
+  </body>
+
+  </html>

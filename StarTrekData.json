@@ -1,0 +1,28 @@
+{"PersonTakingSurvey":"James Holden","PersonalityType":"ENTJ","LastTeamMate1":"Josephus Miller","LastTeamMate2":"Chrisjen Avasarala","LastTeamMate3":"Naomi Nagata"}
+{"PersonTakingSurvey":"Amos Burton","PersonalityType":"ENFJ","LastTeamMate1":"Praxideke Meng","LastTeamMate2":"Naomi Nagata","LastTeamMate3":"James Holden"}
+{"PersonTakingSurvey":"Alex Kamal","PersonalityType":"ENFP","LastTeamMate1":"James Holden","LastTeamMate2":"Naomi Nagata","LastTeamMate3":"Amos Burton"}
+{"PersonTakingSurvey":"Naomi Nagata","PersonalityType":"INFJ","LastTeamMate1":"James Holden","LastTeamMate2":"Alex Kamal","LastTeamMate3":"Amos Burton"}
+{"PersonTakingSurvey":"Praxideke Meng","PersonalityType":"ISTJ","LastTeamMate1":"Amos Burton","LastTeamMate2":"Naomi Nagata","LastTeamMate3":"James Holden"}
+{"PersonTakingSurvey":"Josephus Miller","PersonalityType":"ISFJ","LastTeamMate1":"James Holden","LastTeamMate2":"Anderson Dawes","LastTeamMate3":"Naomi Nagata"}
+{"PersonTakingSurvey":"Anderson Dawes","PersonalityType":"ENTP","LastTeamMate1":"James Holden","LastTeamMate2":"Naomi Nagata","LastTeamMate3":"Chrisjen Avasarala"}
+{"PersonTakingSurvey":"Jules-Pierre Mao","PersonalityType":"INTP","LastTeamMate1":"Sadavir Errinwright","LastTeamMate2":"Chrisjen Avasarala","LastTeamMate3":"Praxideke Meng"}
+{"PersonTakingSurvey":"Chrisjen Avasarala","PersonalityType":"ENTJ","LastTeamMate1":"James Holden","LastTeamMate2":"Sadavir Errinwright","LastTeamMate3":"Jules-Pierre Mao"}
+{"PersonTakingSurvey":"Sadavir Errinwright","PersonalityType":"ESTJ","LastTeamMate1":"Jules-Pierre Mao","LastTeamMate2":"Chrisjen Avasarala","LastTeamMate3":"James Holden"}
+{"PersonTakingSurvey":"William Riker","PersonalityType":"ESTJ","LastTeamMate1":"Deanna Troi","LastTeamMate2":"Jean-Luc Picard","LastTeamMate3":"Worf"}
+{"PersonTakingSurvey":"Spock","PersonalityType":"ISTJ","LastTeamMate1":"James Kirk","LastTeamMate2":"Leonard McCoy","LastTeamMate3":"Montgomery Scott"}
+{"PersonTakingSurvey":"Miles O'Brien","PersonalityType":"ISTJ","LastTeamMate1":"Benjamin Sisko","LastTeamMate2":"Julian Bashir","LastTeamMate3":"Leonard McCoy"}
+{"PersonTakingSurvey":"Leonard McCoy","PersonalityType":"ESFJ","LastTeamMate1":"Miles O'Brien","LastTeamMate2":"James Kirk","LastTeamMate3":"Spock"}
+{"PersonTakingSurvey":"Beverly Crusher","PersonalityType":"ISFJ","LastTeamMate1":"Jean-Luc Picard","LastTeamMate2":"William Riker","LastTeamMate3":"Deanna Troi"}
+{"PersonTakingSurvey":"Geordi LaForge","PersonalityType":"ESTP","LastTeamMate1":"Jean-Luc Picard","LastTeamMate2":"Worf","LastTeamMate3":"Miles O'Brien"}
+{"PersonTakingSurvey":"Montgomery Scott","PersonalityType":"ESTP","LastTeamMate1":"Geordi LaForge","LastTeamMate2":"James Kirk","LastTeamMate3":"Leonard McCoy"}
+{"PersonTakingSurvey":"Odo","PersonalityType":"ISTP","LastTeamMate1":"Quark","LastTeamMate2":"Benjamin Sisko","LastTeamMate3":"Garak"}
+{"PersonTakingSurvey":"Deanna Troi","PersonalityType":"ENFJ","LastTeamMate1":"William Riker","LastTeamMate2":"Jean-Luc Picard","LastTeamMate3":"Worf"}
+{"PersonTakingSurvey":"Jake Sisko","PersonalityType":"ENFJ","LastTeamMate1":"Benjamin Sisko","LastTeamMate2":"Quark","LastTeamMate3":"Odo"}
+{"PersonTakingSurvey":"Benjamin Sisko","PersonalityType":"INFJ","LastTeamMate1":"Worf","LastTeamMate2":"Miles O'Brien","LastTeamMate3":"Garak"}
+{"PersonTakingSurvey":"James Kirk","PersonalityType":"ENFP","LastTeamMate1":"Spock","LastTeamMate2":"Leonard McCoy","LastTeamMate3":"Montgomery Scott"}
+{"PersonTakingSurvey":"Julian Bashir","PersonalityType":"ENFP","LastTeamMate1":"Garak","LastTeamMate2":"Quark","LastTeamMate3":"Benjamin Sisko"}
+{"PersonTakingSurvey":"Garak","PersonalityType":"INFP","LastTeamMate1":"Julian Bashir","LastTeamMate2":"Benjamin Sisko","LastTeamMate3":"Odo"}
+{"PersonTakingSurvey":"Quark","PersonalityType":"ENTJ","LastTeamMate1":"Odo","LastTeamMate2":"Julian Bashir","LastTeamMate3":"Miles O'Brien"}
+{"PersonTakingSurvey":"Q","PersonalityType":"ENTJ","LastTeamMate1":"Benjamin Sisko","LastTeamMate2":"Jean-Luc Picard","LastTeamMate3":"James Kirk"}
+{"PersonTakingSurvey":"Jean-Luc Picard","PersonalityType":"INTJ","LastTeamMate1":"William Riker","LastTeamMate2":"Worf","LastTeamMate3":"Deanna Troi"}
+{"PersonTakingSurvey":"Worf","PersonalityType":"INTP","LastTeamMate1":"Benjamin Sisko","LastTeamMate2":"Jean-Luc Picard","LastTeamMate3":"Deanna Troi"}
